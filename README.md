@@ -1,34 +1,66 @@
-# Hi, I'm Johan 👋
+# Johan Giron
 
-**Software Developer | AI Agents, Automation & Secure Systems**
+**Software Developer | AI Agents & Automation | Python/Django **
 
-I'm a software developer based in **Boa Vista, Brazil**, currently completing my degree in **Systems Analysis and Development**. I am a software engineering intern at **DPE/RR**, developing and maintaining institutional systems with Python, Django, React, PostgreSQL, and Sentry.
+Software developer based in Boa Vista, Roraima, Brazil. I currently work with
+institutional systems and process automation at DPE/RR, using technologies such
+as Python, Django, React, PostgreSQL, Git and Sentry.
 
-My recent work is increasingly focused on **AI agents and process automation**. At the same time, I am building toward **Application Security and Cybersecurity**, drawing on practical experience with authentication logs, access control, code review, technical documentation, Linux, and Windows environments.
-
-## What I'm working on
-
-- **IARAG - PIBICT/IFRR:** Research and development project involving AI agents, workflow automation, and tool integration. More technical details will be published as the project progresses.
-- **Institutional systems at DPE/RR:** Web development, maintenance, monitoring, access control, and workflow automation for public-service operations.
-- **Cybersecurity development:** Building deeper skills in secure software development, OWASP, API security, vulnerability management, and incident response.
+My experience includes software maintenance, requirements analysis, access
+control, authentication logs, technical documentation and workflow automation.
 
 ## Highlights
 
-- **NASA Space Apps Challenge Global Nominee**
-- **Software Engineering Intern at DPE/RR**
-- Contributor to the **IARAG research project at PIBICT/IFRR**
-- **FarolDev organizer**, supporting workshops and knowledge-sharing in the local technology community
-- **Advanced English - C1**
+- Technical degree in Information Technology.
+- Final-semester student in Systems Analysis and Development at IFRR.
+- PIBICT/IFRR researcher working on IARAG, a project involving AI agents.
+- Contributed to two systems used in itinerant public-service events serving
+  thousands of people.
+- Developed automations that increased service capacity by approximately 40%.
+- NASA Space Apps Challenge Global Nominee.
+- Organizer at FarolDev, supporting the local developer community.
+- Advanced English and fluent Spanish.
 
-## Technology
+## Current Focus
 
-- **Languages:** Python, Java, JavaScript
-- **Frameworks and libraries:** Django, React, Spring Boot, Pandas, NumPy
-- **Databases:** PostgreSQL, MySQL
-- **Tools:** Git, GitHub, Docker, Sentry, Jupyter Notebook
-- **Current interests:** AI agents, automation, secure software, application security, and cybersecurity
+- AI agents and workflow automation
+- Retrieval-Augmented Generation (RAG)
+- Backend development with Python and Django
+- REST API development and integration
+- Secure software development and application security
 
-## Connect with me
+## Core Technologies
 
-- [LinkedIn](https://www.linkedin.com/in/johangiron)
-- [Email](mailto:johan.contratos@gmail.com)
+**Backend:** Python, Django, Java, Spring Boot  
+**Frontend:** JavaScript, React  
+**Databases:** PostgreSQL, MySQL  
+**Tools:** Git, GitHub, Docker, Sentry  
+**Environments:** Linux, Windows  
+**Currently studying:** AI agents, RAG, OWASP, software testing and cybersecurity
+
+## Featured Work
+
+### IARAG — PIBICT/IFRR Research Project
+
+Research project involving AI agents and intelligent information processing.
+Public technical details and artifacts will be added as the research progresses.
+
+### Institutional Systems and Automation
+
+Development and maintenance of systems supporting public-service operations.
+Created workflow and document automations that contributed to an approximately
+40% increase in service capacity.
+
+> Institutional source code and sensitive information are not publicly
+> available due to confidentiality and data-protection requirements.
+
+### NASA Space Apps Challenge
+
+Global Nominee for the development of a technology solution during the NASA
+Space Apps Challenge.
+
+## Contact
+
+- Email: johan.contratos@gmail.com
+- Location: Boa Vista, Roraima, Brazil
+- Available for remote opportunities in Brazil
